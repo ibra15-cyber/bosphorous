@@ -71,7 +71,6 @@ function App() {
   }, []);
 
   return (
-    <React.Fragment>
       <BrowserRouter>
         <div
           className={
@@ -307,7 +306,6 @@ function App() {
           <Footer />
         </div>
       </BrowserRouter>
-    </React.Fragment>
   );
 }
 
