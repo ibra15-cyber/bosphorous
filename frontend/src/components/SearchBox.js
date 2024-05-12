@@ -22,7 +22,7 @@ export default function SearchBox() {
           arial-aria-describedby="button-search"
         />
         <Button variant="outline-primary" type="submit" id="button-search" >
-            {/* <i className='fas fa-search'></i> */}
+             <i className='fas fa-search'></i> 
         </Button>
       </InputGroup>
     </Form>
